@@ -1,7 +1,12 @@
-# Cloud Architect Journey
+# Cloud-A-J · Becoming a Cloud & Systems Engineer
 
-A 12-week build log documenting my path into cloud solutions architecture.
-Stack: Python, AWS, Networking fundamentals.
+A 26-week build log, Oct 2026 → Apr 2027.
+
+
+Linux → Networking → AWS → Docker → Terraform → Kubernetes → Capstone.
+
+## Log
+- [Week 01 · Day 01: Securing my AWS account](log/week-01/day-01.md)
 
 ## Projects
-- Week 01: Network diagram visualiser with IP subnet checker
+- Network diagram visualiser with IP subnet checker (`network_diagram.py`)
