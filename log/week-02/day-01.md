@@ -13,4 +13,7 @@
 - `file` tells you what type of data is inside; `*` wildcard checks many files at once
 - SSH "broken pipe" = idle TCP session dropped
 
+- 
+
 **Bandit:** reached Level 5 (no spoilers, per the rules 🤫)
+** (Sat):** Bandit Level 5→6. Learned `find`: search all subfolders by size (`-size 1033c`), type (`-type f`), and NOT executable (`! -executable`).
