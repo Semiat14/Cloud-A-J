@@ -11,6 +11,6 @@ Linux → Networking → AWS → Docker → Terraform → Kubernetes → Capston
 - [Week 02 · Day 01: Linux comeback + Bandit 0–5](log/week-02/day-01.md)
 - [Week 02 · Day 02: Bandit 6→9 + users & packages](log/week-02/day-02.md)
 - [Week 03 · Day 01: Processes, systemd & my first web server](log/week-03/day-01.md)
-  
+- [Week 03 · Day 03: My first server on AWS](log/week-03/day-03.md)
 ## Projects
 - Network diagram visualiser with IP subnet checker (`network_diagram.py`)
